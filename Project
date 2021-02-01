@@ -1,6 +1,0 @@
-#this will be the start to the final project/capstone project
-#all of the following code will be dedicated towards the project's tasks. 
-
-import pandas as pd
-import numpy as np
-print("Hello Capstone Project Course!")
